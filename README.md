@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Dhevika</h1>
-<h3 align="center">AI & Cloud Developer | Open Source Contributor | Passionate about Frontend & CUDA Optimization 🚀</h3>
+<h3 align="center">AI & Cloud Developer | Open Source Contributor | Passionate about Backend & CUDA Optimization 🚀</h3>
 
 ---
 
