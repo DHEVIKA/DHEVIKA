@@ -5,7 +5,7 @@
 
 ### 💫 About Me:
 - 🎓 B.Tech in Information Technology (Vel Tech Multi Tech, Chennai)  
-- 💻 Skilled in **Python, C++, TensorFlow, React, Docker, and Cloud (AWS)**  
+- 💻 Skilled in **Python, C++, Django, FastAPI, React, Docker, and Cloud (AWS)**  
 - 🧠 Passionate about **AI/ML, Deep Learning, and GPU Computing (CUDA)**  
 - 🌱 Contributing to **NVIDIA Open Source** projects  
 - ☁️ Exploring **DevOps & Cloud Deployment**  
