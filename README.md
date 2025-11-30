@@ -35,11 +35,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHEVIKA&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEVIKA&layout=compact&theme=radical" height="150" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DHEVIKA&theme=rose_pine">
+<br><br>
+  
 </p>
+
 
 ---
 
