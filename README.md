@@ -24,7 +24,6 @@
 - 🧩 [Neuro Fusion – Brain Tumor Detection (93% accuracy)](https://github.com/DHEVIKA/Final-Year-PROJECT)  
 - 🧠 [Sahayak AI – Education Assistant](https://github.com/DHEVIKA/sahayak-ai-dashboard)  
 - 💬 [Meeting Summarizer App](https://github.com/DHEVIKA/meeting-summarizer-ai)  
-- 💻 [Animated Portfolio Website](https://github.com/DHEVIKA/portfolio)  
 
 ---
 
