@@ -30,7 +30,11 @@
 ### 🏆 Achievements:
 - 🥇 Finalist – **Google Agentic AI Hackathon 2025**  
 - 💡 Open Source Contributor – **NVIDIA (AI/ML & CUDA Projects)**  
-- 🏅 Best Paper Award – ICCIDS 2025  
+- 🏅 Best Paper Award – ICCIDS 2025
+- 🏅 Open Source Achievements (Meshery - 2026)
+
+[![Layer5 Design Pioneer](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/f8bf707f-40b4-4cd7-a3f5-1774603af68d?tab=badges&badge=first-design)
+
 
 ---
 
