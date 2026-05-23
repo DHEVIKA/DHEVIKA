@@ -7,7 +7,7 @@
 - 🎓 B.Tech in Information Technology (Vel Tech Multi Tech, Chennai)  
 - 💻 Skilled in **Python, C++, Django, FastAPI, React, Docker, and Cloud (AWS)**  
 - 🧠 Passionate about **AI/ML, Deep Learning, and GPU Computing (CUDA)**  
-- 🌱 Contributing to **NVIDIA Open Source** projects  
+- 🌱 Contributing to **GSSOC 2026** projects  
 - ☁️ Exploring **DevOps & Cloud Deployment**  
 - 🩷 Building creative AI-driven interfaces and dashboards  
 
