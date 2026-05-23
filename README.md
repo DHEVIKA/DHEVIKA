@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm M Dhevika</h1>
-<h3 align="center">AI & Cloud Developer | Open Source Contributor | Passionate about Backend & CUDA Optimization 🚀</h3>
+<h3 align="center">AI & Cloud Developer | Open Source Contributor  🚀</h3>
 
 ---
 
 ### 💫 About Me:
 - 🎓 B.Tech in Information Technology (Vel Tech Multi Tech, Chennai)  
 - 💻 Skilled in **Python, C++, Django, FastAPI, React, Docker, and Cloud (AWS)**  
-- 🧠 Passionate about **AI/ML, Deep Learning, and GPU Computing (CUDA)**  
+- 🧠 Passionate about **AI/ML, Deep Learning**  
 - 🌱 Contributing to **GSSOC 2026** projects  
 - ☁️ Exploring **DevOps & Cloud Deployment**  
 - 🩷 Building creative AI-driven interfaces and dashboards  
