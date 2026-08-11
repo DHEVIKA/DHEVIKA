@@ -22,7 +22,7 @@
 
 ### 🌟 Notable Projects:
 - 🧩 [Neuro Fusion – Brain Tumor Detection (93% accuracy)](https://github.com/DHEVIKA/Final-Year-PROJECT)  
-- 🧠 [Sahayak AI – Education Assistant](https://github.com/DHEVIKA/sahayak-ai-dashboard)  
+- 🧠 [Sahayak AI – Education Assistant](https://github.com/DHEVIKA/Google-AgenticAi-.git)  
 - 💬 [Meeting Summarizer App](https://github.com/DHEVIKA/meeting-summarizer-ai)  
 
 ---
